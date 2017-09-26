@@ -6,19 +6,21 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>My First Web Page</title>
-  </head>
- 
- <style>
-    
-   p.serif {
-    font-family: "Comic sans";
-}
+     <style>
+       
+    #main-headline {text-align: center;color: blue;}
+    .place-description {font-family: Verdana;color: olive;}
+    .person-description {;color: purple;}
+    .importan-points {;text-decoration: underline;}
+   
     </style>
+    
+  </head>
    
     <hr/>
     
   <body>
-    <h1>!Hello World!</h1>
+    <h1 id="main-headline">!Hello World!</h1>
     <h4>Website designed By Van Holmstrom!</h4>
 
      <hr/>
@@ -26,7 +28,7 @@
  </center>
     
     <h2>A place I would like to visit.</h2>
-    <p class="serif">If I could visit any place in the world I would go on a backpacking trip In Europe and The Nortic area.</p>
+    <p  class="place-description">If I could visit any place in the world I would go on a backpacking trip In Europe and The Nortic area.</p>
    <p>
       These are some hikes in Europe. "<a href="https://www.ryderwalker.com/?gclid=CKmO8JrdhNYCFQi2wAodDA4INw" target="_blank">Click here</a>
      "
@@ -36,7 +38,7 @@
     
     <h2>A person I admire 
   <br> (past or present)</h2>
-    <p class="serif">I admire Enoch, a person so rightness that God took him a way from earth so he wouldn't have to sufferent through death.</p>
+    <p class="person-description">I admire Enoch, a person so <span class="important-point">rightness that God took him a way from earth so he wouldn't have to sufferent through death.</span></p>
    <p> 
       This Website tells you about Enoch, a man so rightness that he never died. "<a href="https://www.gotquestions.org/Enoch-in-the-Bible.html" target="_blank">Click here</a>
      "
