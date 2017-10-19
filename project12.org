@@ -18,6 +18,11 @@
       
       body {background-image: url('BlackTile.jpeg'); background-color: gray;} 
       
+ a:link { color: blue; }
+ a:visited { color: dark green; }
+ a:hover { color: purple; }
+ a:active { color: red; }
+      
       </style>
     
   </head>
