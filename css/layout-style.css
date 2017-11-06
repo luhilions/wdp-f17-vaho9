@@ -11,8 +11,7 @@
       
       
       body{
-            background-image: url('../images/whitetile.jpeg'); 
-            background-color: gray;} 
+            background-image: url('../images/whitetile.jpeg');} 
       
  a:link { color: blue; font-weight: bold; }
  a:visited { color: purple; }
