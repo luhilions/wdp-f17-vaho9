@@ -10,8 +10,7 @@
       .clearfloat {clear: both;}
       
       
-      body{
-            background-image: url('../images/whitetile.jpeg');} 
+      body{background-image: url('../images/whitetile.jpeg');} 
       
  a:link { color: blue; font-weight: bold; }
  a:visited { color: purple; }
