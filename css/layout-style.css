@@ -10,7 +10,7 @@
       .clearfloat {clear: both;}
       
       
-      body {background-image: url('wdp-f17-vaho9/images/whitetile.jpeg'); background-color: gray;} 
+      body {background-image: url("images/whitetile.jpeg"); background-color: gray;} 
       
  a:link { color: blue; font-weight: bold; }
  a:visited { color: purple; }
