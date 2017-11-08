@@ -23,28 +23,28 @@
 
 .king {
  position: absolute;
- top: 60px;
+ top: 75px;
  left: 110px;
  z-index: 2;
 }
 
 .queen {
  position: absolute;
- top: 80px;
+ top: 110px;
  left: 110px;
  z-index: 3;
 }
 
 .jack {
  position: absolute;
- top: 100px;
+ top: 145px;
  left: 110px;
  z-index: 4;
 }
 
 .ten {
  position: absolute;
- top: 120px;
+ top: 180px;
  left: 110px;
  z-index: 5;
 }
