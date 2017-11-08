@@ -1,5 +1,5 @@
 .gradient {
- background: url('../img/gradient.jpg');
+ background-color: url('../img/gradient.jpg');
  background-repeat: repeat-x;
  background-color: gray;
 }
